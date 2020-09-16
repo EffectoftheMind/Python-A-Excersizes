@@ -1,5 +1,4 @@
 # Create a mapping of state to abbreviation
-# Add Oklahoma and Texas to the end of the list.
 states = {'Oregon': 'OR',
           'Florida': 'FL',
           'California': 'CA',
@@ -12,7 +11,7 @@ cities = {'CA': 'San Francisco',
           'MI': 'Detroit', 
           'FL': 'Jacksonville'}  
           
-#add the rest of the cities here including Oklahoma and Texas
+#add the rest of the cities
 
 cities ['NY'] = 'New York'
 cities ['OR'] = 'Portland'
